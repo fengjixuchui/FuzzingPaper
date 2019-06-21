@@ -22,6 +22,8 @@
 
 - USENUX Security2019
     - MOPT: Optimize Mutation Scheduling for Fuzzers
+    - EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers
+    - GRIMOIRE: Synthesizing Structure while Fuzzing
 
 - USENUX Security2018
     - MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation 
