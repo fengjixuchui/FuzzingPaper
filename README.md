@@ -105,7 +105,7 @@
   - [Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing (NDSS 2019)](#send-hardest-problems-my-way-probabilistic-path-prioritization-for-hybrid-fuzzing--ndss-2019)
   - [QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing (USENUX Security2018)](#qsym-a-practical-concolic-execution-engine-tailored-for-hybrid-fuzzing-usenux-security2018)
   - [Angora: Efficient Fuzzing by Principled Search (S&P 2018)](#angora-efficient-fuzzing-by-principled-search-sp-2018)
-  - [Driller: Argumenting Fuzzing Through Selective Symbolic Execution (NDSS 2016)](#driller-argumenting-fuzzing-through-selective-symbolic-execution-ndss-2016)
+  - [Driller: Augmenting Fuzzing Through Selective Symbolic Execution (NDSS 2016)](#driller-argumenting-fuzzing-through-selective-symbolic-execution-ndss-2016)
 
 - [**Addressing Magic bytes \ checksum**](#addressing-magic-bytes-\-checksum)
   - [REDQUEEN: Fuzzing with Input-to-State Correspondence  (NDSS2019)](#redqueen-fuzzing-with-input-to-state-correspondence-ndss2019)
